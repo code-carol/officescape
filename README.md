@@ -22,7 +22,7 @@ Imagine a world where work feels like play, where collaboration is seamless and 
 
 [Figma Prototype](https://www.figma.com/proto/m6GeQtvyMa0BRmIr4Sqs64/officescape?t=ejiDv79vTXzToVxa-1&node-id=1-9&starting-point-node-id=1%3A9)
 
-## 🎯 Features
+## ✨ Features
 
 ### Future Features
 
