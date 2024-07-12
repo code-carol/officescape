@@ -22,10 +22,6 @@ Imagine a world where work feels like play, where collaboration is seamless and 
 
 [Figma Prototype](https://www.figma.com/proto/m6GeQtvyMa0BRmIr4Sqs64/officescape?t=ejiDv79vTXzToVxa-1&node-id=1-9&starting-point-node-id=1%3A9)
 
-## ✨ Features
-
-### Future Features
-
 ## ⚙️ Installation & Usage
 
 - Clone or download the repo
@@ -38,6 +34,10 @@ Imagine a world where work feels like play, where collaboration is seamless and 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+## ✨ Features
+
+### Future Features
 
 ## 👀 Demo
 
