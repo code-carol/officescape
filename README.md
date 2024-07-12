@@ -6,7 +6,7 @@ Unlock Productivity, One Block at Time!
 
 [Prototype](https://www.figma.com/proto/m6GeQtvyMa0BRmIr4Sqs64/officescape?t=ejiDv79vTXzToVxa-1&node-id=1-9&starting-point-node-id=1%3A9)
 
-<img src="./public/imgs/officescape.png" alt="presentation of the name" width="500" height="300">
+<img src="./public/imgs/officescape.png" alt="presentation of the name" width="900" height="600">
 
 ## ⭐️ Challenge
 
