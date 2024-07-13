@@ -1,6 +1,6 @@
 # OfficEscape - Hackathon Challenge Winner 🏆
 
-Unlock Productivity, One Block at Time!
+Unlock Productivity, One Block at a Time!
 
 [Presentation](https://www.canva.com/design/DAGKMJhVmjE/_WkdFZt-m9fLqjgF4FzAYg/view?utm_content=DAGKMJhVmjE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
