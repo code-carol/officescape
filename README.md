@@ -7,7 +7,7 @@ Unlock Productivity, One Block at Time!
  <div align="center">
 
 <img src="./public/imgs/officescape.png" alt="presentation of the name" width="550" >
-<img src="./public/imgs/project.jpg" alt="winner project image" width="250">
+<img src="./public/imgs/project.jpg" alt="image from official hackathon website" width="250">
 
  </div>
 
