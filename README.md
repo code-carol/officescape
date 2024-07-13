@@ -4,7 +4,12 @@ Unlock Productivity, One Block at Time!
 
 [Presentation](https://www.canva.com/design/DAGKMJhVmjE/_WkdFZt-m9fLqjgF4FzAYg/view?utm_content=DAGKMJhVmjE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-<img src="./public/imgs/officescape.png" alt="presentation of the name" width="800" height="500">
+ <div align="center">
+
+<img src="./public/imgs/officescape.png" alt="presentation of the name" width="650" >
+<img src="./public/imgs/project.jpg" alt="winner project image" width="300">
+
+ </div>
 
 ## ⭐️ Challenge
 
