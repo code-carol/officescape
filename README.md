@@ -6,8 +6,8 @@ Unlock Productivity, One Block at Time!
 
  <div align="center">
 
-<img src="./public/imgs/officescape.png" alt="presentation of the name" width="650" >
-<img src="./public/imgs/project.jpg" alt="winner project image" width="300">
+<img src="./public/imgs/officescape.png" alt="presentation of the name" width="550" >
+<img src="./public/imgs/project.jpg" alt="winner project image" width="250">
 
  </div>
 
