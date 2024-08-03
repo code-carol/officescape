@@ -47,3 +47,8 @@ Imagine a world where work feels like play, where collaboration is seamless and 
 ## 👀 Demo
 
 ## 📚 Lessons Learned
+
+- Understanding the problem is key to creating a good solution
+- Ask questions about the challenge
+- Spend less time thinking about ideas and start executing as soon as possible
+- Spend time on creating a good presentation
