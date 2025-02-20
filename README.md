@@ -40,11 +40,6 @@ Imagine a world where work feels like play, where collaboration is seamless and 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## ✨ Features
-
-### Future Features
-
-## 👀 Demo
 
 ## 📚 Lessons Learned
 
